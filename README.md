@@ -1,4 +1,4 @@
-# Weather-Cast-
+# Weather-Forecast
 This is a simple weather application that allows users to check the weather by either searching for a city or by using their current geolocation. It fetches real-time weather data from OpenWeatherMap API and displays it in a clean and user-friendly interface.
 
 Features:
